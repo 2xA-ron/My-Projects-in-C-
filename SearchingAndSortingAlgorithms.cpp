@@ -1,10 +1,3 @@
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 6
-// File Name: L6_Rodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 4/09/2022
-// Instructor: Dr. B. Hohlt
-//
 /*
     Program Description:
     In this program this is a bubble function that is built from scratch using the book and implement it
