@@ -5,7 +5,7 @@
 // Date:                        5/11/2022
 // Instructor:                  Dr. B. Hohlt
 //
-//  Chapter 11 --  Inheritance
+//  Inheritance
 //
 
 #include <iostream>
