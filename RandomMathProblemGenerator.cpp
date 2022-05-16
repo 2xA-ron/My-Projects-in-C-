@@ -1,12 +1,5 @@
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 1
-// File Name: L1_AaronRodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 02/21/2022
-// Instructor: Dr. B. Hohlt
-//
 /*
-    Program Description: This Program present on math problem per program execution at random
+    Program Description: This Program present on math problem per program execution at random after you give your answer it will provide the solution.
 */
 #include <iostream>
 #include <stdlib.h>
