@@ -1,13 +1,6 @@
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 4
-// File Name: L4b_Rodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 3/12/2022
-// Instructor: Dr. B. Hohlt
-//
 /*
     Program Description: This program is intended hold/display gadget number, the description of gadget, and it price.
-    with and discount constant function implemented that represnts the discount percentage. Two intances will be created to test both constructors.
+    with and discount constant function implemented that represents the discount percentage. Two instances will be created to test both constructors.
 
 */
 
