@@ -1,10 +1,3 @@
-// Author:                      Aaron Rodriguez
-// Assignment Number:           Lab 7
-// File Name:                   L7_Rodriguez.cpp
-// Course/Section:              COSC 1337 Section 006
-// Due Date:                    4/17/2022
-// Instructor:                  Dr. B. Hohlt
-//
 //  Statistics class
 //  - using a dynamic array
 //  This class uses the class STATISTICS to gather statistical data on an array of randomly
