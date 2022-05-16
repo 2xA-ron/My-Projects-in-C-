@@ -1,12 +1,4 @@
-// Author:                      Aaron Rodriguez
-// Assignment Number:           Lab 9
-// File Name:                   L9_Rodriguez.cpp
-// Course/Section:              COSC 1337 Section 006
-// Date:                        5/08/2022
-// Instructor:                  Dr. B. Hohlt
-//
-//  Chapter 11 --  Corporate Sales
-//
+// Corporate Sales
 /*  Program Description:
 	This program dimestracts the different usage of static member variables
 	and the usage of overloading the ouput operator<< with arrays and objects.
