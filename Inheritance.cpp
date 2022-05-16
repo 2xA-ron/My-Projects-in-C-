@@ -1,11 +1,4 @@
-// Author:                      Aaron Rodriguez
-// Assignment Number:           Lab10
-// File Name:                   L10_Rodriguez.cpp
-// Course/Section:              COSC 1337 Section 006
-// Date:                        5/11/2022
-// Instructor:                  Dr. B. Hohlt
-//
-//  Chapter 11 --  Inheritance
+// --  Inheritance
 //
 
 #include <iostream>
