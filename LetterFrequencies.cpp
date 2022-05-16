@@ -1,9 +1,3 @@
-// Author:                      Aaron Rodriguez
-// Assignment Number:           Lab 8
-// File Name:                   L8_Rodriguez.cpp
-// Course/Section:              COSC 1337 Section 006
-// Due Date:                    4/24/2022
-// Instructor:                  Dr. B. Hohlt
 /*
     Program Description:
     This program demonstrates the use of the get member
