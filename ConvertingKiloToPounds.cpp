@@ -1,10 +1,3 @@
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 3
-// File Name: L3_AaronRodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 3/4/2022
-// Instructor: Dr. B. Hohlt
-//
 /*
     Program Description: This menu driven program converts kilo grams to pounds and pounds. Upon startup a menu will display giving you 3 option
     Converting kilograms to pounds, Convert pounds to Kilograms or the Quit the program.
