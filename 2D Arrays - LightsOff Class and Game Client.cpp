@@ -1,22 +1,3 @@
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 5
-// File Name: L5_Rodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 4/03/2022
-// Instructor: Dr. B. Hohlt
-//
-/*
-    Program Description:
-
-*/
-
-// Author: Aaron Rodriguez
-// Assignment Number: Lab 5
-// File Name: L5_Rodriguez.cpp
-// Course/Section: COSC 1337 Section 006
-// Date: 4/03/2022
-// Instructor: Dr. B. Hohlt
-//
 /*
     Program Description: This program is a single player game where at the start 25 lights are turned on.
 	Cells in the grid are labeled -Off means '-' and on means '*'
